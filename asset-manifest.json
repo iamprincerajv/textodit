@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textodit/static/css/main.073c9b0a.css",
+    "main.js": "/textodit/static/js/main.e1a155f5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textodit/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/textodit/index.html",
+    "main.073c9b0a.css.map": "/textodit/static/css/main.073c9b0a.css.map",
+    "main.e1a155f5.js.map": "/textodit/static/js/main.e1a155f5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textodit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e1a155f5.js"
+  ]
+}
